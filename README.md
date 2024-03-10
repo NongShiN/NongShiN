@@ -41,8 +41,10 @@
 </p>
 
 
-# [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NongShiN&theme=react&bg_color=00&title_color=4490E0&color=4490E0&area=true)]# 
-(https://github.com/NongShiN/github-readme-activity-graph)
+<!-- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NongShiN&theme=react&bg_color=00&title_color=4490E0&color=4490E0&area=true)]# 
+(https://github.com/NongShiN/github-readme-activity-graph) 
+-->
 <br><br><br>
 
 <!--
